@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/zzzteph/substats/blob/main/logo.jpg?raw=true"  height="350">
 </p>
+<br/>
 
 
 The idea was to collect all subdomains from all public bugbounty scope, find with **amass** all subdomains, make some analysis and generate a few wordlists on the results that may be helpful.
@@ -10,8 +11,8 @@ I used this resource https://github.com/arkadiyt/bounty-targets-data to gather a
 
 What will you find in this repository?
 
-- Lists with subdomains for different levels.
-- The whole collected list of resources.
+- [Lists with subdomains for different levels](https://github.com/zzzteph/substats/blob/main/wordlists).
+- [The whole collected list of resources](https://github.com/zzzteph/substats/blob/main/wordlists/all_unchecked).
 - And, of course, very-little statistics and conclusions.
 
 # Summary 
