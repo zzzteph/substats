@@ -7,9 +7,9 @@ I used this resource https://github.com/arkadiyt/bounty-targets-data to gather a
 
 What will you find in this repository?
 
-- Some statistics with conclusions - top subdomains, masks, length statistics, etc.
 - Lists with different tops of subdomains - 100,1000, 10000 for different levels.
 - The whole collected list of resources.
+- And of course very-little statistics and conclusions.
 
 # Abstaract 
 
@@ -42,20 +42,14 @@ And to enumerate the subdomains, you can also find many awesome tools like (each
 So the idea was to collect all subdomains from all public bugbounty scope, find with **amass** all subdomains, make some analysis and generate a few wordlist on the results that may be helpful.
 
 
-## Statistics
-
-Everyone like it, but I will try to make it short. In futher analysis I will refer to subdomain of first 0 domains like - **analytics.google.com**.
-Eights level - **analytics.1.2.3.4.5.6.7.google.com**
-
-
-### TOP 10 subdomains by their levels
+**So, what is top 10 subdomains for each level?**
 
 I replaced **www** with next popular subdomain in 0 column.  
 
-|1|2|3|4|5|6|
+|0|1|2|3|4|5|
 |---|---|---|---|---|---|
-|**api**|**mail**|ns|matching|c|**aws**| 
-|m|cust|**mail**|**tms**|**aws**|c|
+|**api**|**mail**|ns|matching|**c**|**aws**| 
+|m|cust|**mail**|**tms**|**aws**|**c**|
 |dev|spider|r|isp|**tms**|net|
 |**mail**|insight|ctr|**my**|paas|**tms**|
 |staging|search|**stage**|internal|k8s|on|
@@ -63,15 +57,20 @@ I replaced **www** with next popular subdomain in 0 column.
 |autodiscover|**fr**|np|dmz|us|   |
 |**stage**|**us**|staff|cloud|internal|   |
 |app|m| compute|community|   |   |
-|blog|fwd|c|**us**|   |   |
+|blog|fwd|**c**|**us**|   |   |
 |support|**my**|dev|**api**|   |   |
 
-So in general - most popular subdomains have speaking name - api, mail, aws,search and etc, that fully refers to its purpose. It's important to say, that some of them appears of different of subdomain levels.
-Some of them refers to the origin country - **us,fr**.
+So in general - most popular subdomains have speaking name - **api**, **mail**, **aws**, **search** and etc, that fully refers to its purpose. It's important to say, that some of them appears of different of subdomain levels. Some of them refers to the origin country - **us,fr**.
+All top masks contain only latin characters.
 
-### Length statistics
+**What is most common length of subdomains on each levels?**
 
-So the interesting thing here, that 
+On most of the levels most common length is **3-4** symbols.
+
+
+### So this is it!
+
+You can download the list by next links
 
 
 
