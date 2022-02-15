@@ -80,8 +80,9 @@ You can download the full list by following links:
 |[complex](https://github.com/zzzteph/substats/blob/main/wordlists/complex)|67265| List of words that used in complex subdomain names like **mon01-dev-test**. So the list contains words like: **mon01**,**dev**,**test**|
 
 
-In the [wordlists](https://github.com/zzzteph/substats/blob/main/wordlists) folder you can find lists for each subdomain levels, from 1 to even 9. 
-*Numbering begins from 0
+In the [wordlists](https://github.com/zzzteph/substats/blob/main/wordlists) folder you can find lists for each subdomain levels, from 1 to even 9*.
+
+_*Numbering begins from 0_
 
 
 
