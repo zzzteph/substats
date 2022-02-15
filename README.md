@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://github.com/zzzteph/substats/blob/main/logo.png?raw=true"  height="350">
+  <img src="https://github.com/zzzteph/substats/blob/main/logo.jpg?raw=true"  height="350">
 </p>
 
-
-## The idea
 
 The idea was to collect all subdomains from all public bugbounty scope, find with **amass** all subdomains, make some analysis and generate a few wordlist on the results that may be helpful.
 
