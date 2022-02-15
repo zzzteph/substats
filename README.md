@@ -5,7 +5,7 @@
 
 The idea was to collect all subdomains from all public bugbounty scope, find with **amass** all subdomains, make some analysis and generate a few wordlists on the results that may be helpful.
 
-So I collected more than **million subdomains** for near **3000** domains from bugbounty scopes. Among them were google, paypal, apple, and many others. 
+So I collected more than **million subdomains** for near **3000** domains from bugbounty scopes. Among them were **google**, **paypal**, **apple**, and many others. 
 I used this resource https://github.com/arkadiyt/bounty-targets-data to gather all required data for further analysis.
 
 What will you find in this repository?
@@ -79,6 +79,9 @@ You can download the full list by following links:
 |[all_unchecked](https://github.com/zzzteph/substats/blob/main/wordlists/all_unchecked)|997285|All collected subdomains with removed root domain|
 |[complex](https://github.com/zzzteph/substats/blob/main/wordlists/complex)|67265| List of words that used in complex subdomain names like **mon01-dev-test**. So the list contains words like: **mon01**,**dev**,**test**|
 
+
+In the [wordlists](https://github.com/zzzteph/substats/blob/main/wordlists) folder you can find lists for each subdomain levels, from 1 to even 9. 
+*Numbering begins from 0
 
 
 
