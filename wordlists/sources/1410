@@ -1,0 +1,9 @@
+mq.testdr.push.green-1.k8s
+football-rab-pricing-dev-test4.test.k8s.test
+football-rab-pricing-dev-dev.test.k8s.test
+football-rab-pricing-stage-blue.test.k8s.test
+2.ws.push.green-1.k8s
+mq.a.push.green-1.k8s
+2.ws.testdr.push.green-1.k8s
+prometheus.test.k8s.test
+jaeger.test.k8s.test

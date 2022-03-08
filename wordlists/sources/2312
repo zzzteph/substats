@@ -1,0 +1,15 @@
+realtime
+dev-cdn
+faceai
+prod-realtime
+dev-internal-realtime
+cloud
+www
+dev-internal-cloud
+dev-realtime
+prerelease-cloud
+cdn
+prod-cloud
+dev-faceai
+prod-internal-cloud
+dev-cloud

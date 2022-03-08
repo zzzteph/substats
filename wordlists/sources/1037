@@ -1,0 +1,4 @@
+api.canoe-staging-k8s
+api.internal.canoe-staging-k8s
+traffic
+bastion.canoe-staging-k8s

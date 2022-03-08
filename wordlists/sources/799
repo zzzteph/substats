@@ -1,0 +1,16 @@
+anonymous-tracking-api.prod
+userjourney-monitor
+userjourney-monitor.prod
+immuta.stage
+data-transforms
+grafana
+atlantis.stage
+airflow.stage
+immuta.prod
+data-transforms.prod
+userjourney-monitor.stage
+data-checkpoint-service.stage
+test.stage
+grafana.prod
+anonymous-tracking-api.stage
+kibana.prod

@@ -1,0 +1,14 @@
+time
+sites
+mirrors
+federation
+packages
+puppetmaster.aws
+puppetmaster.iad
+ops-puppetmaster-cp1-prd.iad
+statsd-ext.iad
+mirror.iad
+mirrors-ext.iad
+mirrors.iad
+statsd-staging.iad
+test.iad

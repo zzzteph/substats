@@ -1,0 +1,13 @@
+api-staging
+js
+kinesis-poc.staging
+web
+web-staging
+api
+sol-http-1-production
+sol-http-2-staging
+sol-http-2-production
+sol-http-3-production
+sol-http-7-production
+sol-http-1-staging
+dt-receiver.staging

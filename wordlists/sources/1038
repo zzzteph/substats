@@ -1,0 +1,4 @@
+weather
+api.canoe-production-k8s
+api.internal.canoe-production-k8s
+bastion.canoe-production-k8s

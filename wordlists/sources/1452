@@ -1,0 +1,13 @@
+api-staging
+www
+alb-hirer-ui-staging
+auth
+docs
+alb-admin-ui-staging
+alb-candidate-ui-staging
+hirer-ui-staging
+admin-ui-staging
+candidate-ui-staging
+app
+certsynonprod.com
+autodiscover

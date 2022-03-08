@@ -1,0 +1,12 @@
+vault2
+vault
+vault1
+grafana.prod
+vault3
+grafana.staging
+auth.staging
+thanos.staging
+prometheus.staging
+prometheus.prod
+thanos.prod
+auth.prod

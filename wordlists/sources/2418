@@ -1,0 +1,13 @@
+us-west-1
+traffic.eks
+us-east-1
+dcs
+gke
+dcs.gke
+la1
+va3
+adserver.va3
+traffic.va3
+eks
+packet
+link.gke
