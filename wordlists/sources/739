@@ -8,7 +8,6 @@ grafana.production
 api
 sentry.production
 fonts
-traderepublic.com
 teleport.internal.corp
 support
 1password-scim

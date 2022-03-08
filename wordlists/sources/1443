@@ -7,7 +7,6 @@ web.preflight.usc1.taxes
 email.taxes-notifications
 sandbox.api
 taxes
-cash.app
 api-validation
 api.usc1.taxes
 sandbox.global-network-api

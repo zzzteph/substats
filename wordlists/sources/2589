@@ -2,7 +2,6 @@ metadata
 api
 cdn
 cio
-segment.io
 www
 nsq
 consul

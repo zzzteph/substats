@@ -1,6 +1,5 @@
 argocd.beta
 monitoring.beta
-hub.kistler.com
 monitoring
 auth
 studio

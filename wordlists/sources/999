@@ -4,7 +4,6 @@ vpn-east
 prometheus-ds.us-east-1
 skynet
 return-path
-shipt.com
 shipt-admin.us-east-1
 sftp
 alertmanager-og.us-east-1

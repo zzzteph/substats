@@ -45,7 +45,6 @@ traefik.internal
 markets
 pokt-3.dev
 matomo.staging
-blockchain.info
 deploy.staging
 nomad.internal
 statz.staging

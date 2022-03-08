@@ -4,7 +4,6 @@ prodn3.corp1
 status
 jenkins.devtest.corp
 vpn-prod.corp
-lacework.net
 teleport
 docserver
 customerdemo

@@ -25,7 +25,6 @@ blog
 alertmanager.production.eks
 analytics
 prometheus.production.eks
-bloomup.org
 app.acceptance
 login.production.eks
 login.development.eks

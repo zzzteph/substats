@@ -12,7 +12,6 @@ staging.frontend
 fi
 docs
 wms.staging
-woo.org
 x.staging
 sapi
 swap-api.staging

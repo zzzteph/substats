@@ -52,7 +52,6 @@ services
 spss
 services-test
 dam
-vlerick.com
 adfsportal
 service
 uat-sso

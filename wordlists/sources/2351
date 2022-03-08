@@ -43,7 +43,6 @@ sbom
 submit-queue
 releases
 youtube
-k8s.io
 prow-canary
 yum
 lede-jsx-tsrqpo.docs.canary

@@ -16,7 +16,6 @@ web-production
 rasserver
 external-api
 proxy-gen2-production-standby
-lime.bike
 external-data
 help
 iot-proxy-gen2-staging

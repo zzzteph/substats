@@ -31,7 +31,6 @@ k8s-jpmbeta
 passcore.prod.ue1
 k8s-aggregation-inbd-chase-uat
 cerebro-awsestest.dev.ue1
-quovo.com
 prometheus-new.dev.ue1
 kuberos.prod.ue1
 analytics-api.dev.ue1

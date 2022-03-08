@@ -20,7 +20,6 @@ trail
 preprod-package
 api-alb-ap-east-1
 spy
-datadome.co
 flink-gcp
 dev-customer-api
 ldap

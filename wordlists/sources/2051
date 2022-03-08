@@ -33,7 +33,6 @@ login
 ci
 connect
 bsc-node-staging
-arkane.network
 matic-mumbai-ws
 ws-matic-node-qa
 api-business-qa

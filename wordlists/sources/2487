@@ -15,7 +15,6 @@ invitation
 keycloak.dev
 server-admin-auth
 server
-olvid.io
 web
 kubernetes-server
 wsserver.demo

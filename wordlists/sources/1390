@@ -19,7 +19,6 @@ jira-internal.integrations
 sfdc-auth-redirect.integrations
 acc
 slack-server
-asana.plus
 outlook
 github-internal-server
 www

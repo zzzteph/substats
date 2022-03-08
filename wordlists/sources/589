@@ -5,7 +5,6 @@ api
 app
 t
 stg-proc
-beanstalkdata.com
 proc
 forms
 cdn

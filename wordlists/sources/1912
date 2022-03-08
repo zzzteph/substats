@@ -369,7 +369,6 @@ ge-0-1-0-0.br01.sjc1
 vlan-151-self01.intslb02a.sjc1b
 supportprofile
 et-0-0-6-0.dr02.iad2
-squareup.com
 vpn.iad1
 snat-in-01-trfw.iad1
 229-nat.hq

@@ -18,7 +18,6 @@ apps
 gql.graph
 pegswap
 keepers
-chain.link
 ropsten
 kovan
 careers

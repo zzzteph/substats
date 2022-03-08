@@ -30,7 +30,6 @@ canary
 releases.canary
 pr.canary
 feature.canary
-kubernetes.io
 issue.canary
 testgrid.canary
 v1-21.docs

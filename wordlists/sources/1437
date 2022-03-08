@@ -64,7 +64,6 @@ twilio-flex-demo
 test-jitsi-2
 shardsvr-2.test-usw2.mongo.aws
 shardsvr-2.test-euw1.mongo.aws
-callstats.io
 k-rest-api-stats-test.usab1.oracle
 taas-test-eu-west-1.aws
 test-dashboard-eu-frankfurt-1

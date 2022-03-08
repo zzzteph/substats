@@ -29,7 +29,6 @@ autodiscover
 logon2
 smtp01
 ocw
-kuleuven.be
 cwisdb
 sccm-cms
 ldap-auth

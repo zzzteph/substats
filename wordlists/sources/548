@@ -45,7 +45,6 @@ qaops-sub2-jira-uks1-01.qaops
 qaopsa-netmap-sub1-uks1-01.qaopsa
 prod-sub4-notary-04
 staging-netmap-sub0-uks1-01.staging
-corda.network
 prod-netmap-sub4-uks1-01
 doorman.qaops
 jira2.qaops

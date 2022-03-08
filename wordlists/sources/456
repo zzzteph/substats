@@ -20,7 +20,6 @@ go
 telemetry-staging
 partner-charts
 benchmarks-old
-elastic.co
 build
 catalogue.maps
 prelert-info

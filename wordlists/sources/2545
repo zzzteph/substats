@@ -3,7 +3,6 @@ go
 staging
 api
 mysql
-proctorio.com
 cdn
 uptime
 bounce

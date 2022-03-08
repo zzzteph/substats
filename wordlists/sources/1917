@@ -9,7 +9,6 @@ doers
 o5.notifications-sendgrid
 o3.notifications-sendgrid
 www
-statuspage.io
 elb-status-us
 api
 hosted-cdn-backend

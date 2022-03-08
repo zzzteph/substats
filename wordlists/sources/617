@@ -2,7 +2,6 @@ frontend.demo
 cx
 api.demo
 apps.cx-pit
-callpop.com
 data.k8s.production
 api.production
 db.k8s.production

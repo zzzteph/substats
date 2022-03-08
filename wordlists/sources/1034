@@ -10,7 +10,6 @@ chi-staging-metric-api
 staging-api
 collector-300
 staging-log-api
-newrelic.com
 pdx
 collector-296
 staging-infrastructure-command-api

@@ -1078,7 +1078,6 @@ dev-maud
 site-certificates.production.general-01.us-central1.internal.k8s
 test-crs-education
 live-isolation-majeau-blogue
-pantheon.io
 live-clearspancom
 live-techoregon
 dev-the-ohio-state-university-wildcard-ssl-container

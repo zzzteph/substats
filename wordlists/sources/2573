@@ -3,7 +3,6 @@ staging
 zendesk1
 staging-origin
 bb-m
-rubygems.org
 help
 api
 s3-proxy
