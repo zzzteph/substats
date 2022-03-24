@@ -24,3 +24,7 @@ ic-select
 ignitemarketplace
 idp
 moracontrol
+auth.ar
+uat.idvalidator
+uat.api-idvalidator
+uat.pmonitor

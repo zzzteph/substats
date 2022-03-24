@@ -95,3 +95,4 @@ consul.europe-west1.dev
 nomad.europe-west1.dev
 vault.europe-west1.dev
 mm.staging
+liquidity.prod

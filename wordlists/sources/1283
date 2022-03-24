@@ -519,3 +519,7 @@ missioncontrol-admin.staging.scp
 missioncontrol-admin.playground.scp
 sint-station-ui.playground.scs
 missioncontrol.playground.scs
+msdev.sap
+relay.playground.scs
+www.splunk-base
+origin-www.staging

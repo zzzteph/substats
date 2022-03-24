@@ -300,3 +300,9 @@ ebmtest.email
 account-origin.e1-pqa
 sf-lv2.prod
 sni-test-1.d1-np
+api-int.q1-pqa
+secure-origin.api.q1-pmgt
+secure-origin.api.d1-pqa
+hh.mgmt
+api-origin.mgmt
+api-origin.sp-int

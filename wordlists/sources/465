@@ -289,3 +289,15 @@ transport-dev.witos
 trailer-dev.witos
 staging-parts
 wgsgeo.gslb
+webfilter.gslb
+redaktion-wirtgen.applications
+mail.applications
+webfilter.services
+wirtgen.applications
+mobilesales-cons.gslb
+paving-administration.witos
+usercontrol-materials.witos
+mobilesales-cons.services
+enterpriseregistration
+paving-administration-dev.witos
+usercontrol-materials-dev.witos

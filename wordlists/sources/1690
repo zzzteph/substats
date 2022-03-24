@@ -90,3 +90,6 @@ private.nat
 mandrill
 private.loadbalancer01
 private.loadbalancer02
+private.sso-proxy
+private.db-mongo01
+private.wp-old

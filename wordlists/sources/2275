@@ -115,3 +115,5 @@ www.triage-serverless
 prometheus.staging-ref
 cdc1.confluence.8.design
 lb-bastion.windows-ci
+partnerflash
+geo.staging-ref

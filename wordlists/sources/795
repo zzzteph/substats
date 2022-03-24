@@ -100,3 +100,7 @@ portus
 clair
 mandrill
 www-master
+dolphin-upgrade-frontend-api-prod
+dolphin-upgrade-frontend-api-stage
+web2-prod
+web3-prod

@@ -79,3 +79,10 @@ internalservices.dev
 services.qa
 internalservices.qa
 internalservices.test
+merchantsuccess
+navigation-site
+merchant-success.qa
+virtual-terminal-site
+merchantsuccess.test
+authcomponent.pqa
+itools.dev

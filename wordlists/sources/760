@@ -20,3 +20,5 @@ dev.api
 test.fulfilmenthub
 prod
 sftp.provisioninghub
+mutual.api
+api.test.devicehub

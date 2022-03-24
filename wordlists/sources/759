@@ -65,3 +65,5 @@ cms.ue1.d1
 jaeger.ue1.d1
 bastion.ue1.d1
 mlmetricsrest-d4.databricks
+kibana.ue1.d4
+teleport.ue1.d1

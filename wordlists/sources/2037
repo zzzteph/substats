@@ -34,3 +34,5 @@ office-plugins
 fotolia-web.stage.cloud
 statics.prod.cloud
 mailrelay1.stage.cloud
+sftp.contributor.ew1.prod.aws
+sftp.contributor

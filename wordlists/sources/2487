@@ -22,3 +22,5 @@ ws-kubernetes-server
 ws-server.dev2
 admin.dev2
 server.dev2
+auth-admin.dev2
+dev2

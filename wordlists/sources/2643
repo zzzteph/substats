@@ -183,3 +183,10 @@ updatespublic.test
 porting.test
 stage-fastpoker.test
 dubg.ch2.test
+nd.test
+migration-api.advocacy
+prod-api.advocacy
+prod-previewer.advocacy
+prod-shears.advocacy
+interactive
+joey-test.stagely

@@ -12,3 +12,6 @@ t.m
 assets
 blog
 new-jenkins
+app.staging
+testing-app.staging
+testing-www.staging

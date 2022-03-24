@@ -141,3 +141,14 @@ prod-irbis-private.acquisition
 qa-irbis-private.acquisition
 hackerman-db.core-prod
 qa-redirect-admin.acquisition
+dapi-rest.preprod-experimentation
+preprod-billing.preprod-billing
+qa-billing-api.qa-billing
+experiment.preprod-experimentation
+qa-billing.qa-billing
+preprod-billing-api.preprod-billing
+qa-billing-events.qa-billing
+preprod-billing-events.preprod-billing
+qa-facade-int-private.acquisition
+qa-data-private-https.acquisition
+knots-db.core-prod

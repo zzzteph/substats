@@ -179,3 +179,6 @@ registry.cloud
 cf.cloud
 gitlab.cloud
 registry.fedcloud
+uploads-agent.cloud
+downloads-agent.cloud
+drupal7-dev

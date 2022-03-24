@@ -294,3 +294,17 @@ claims.qa
 direct.qa
 c3-int.qa.gtm-ext
 payments-int.qa.gtm-ext
+c3-int.uat.gtm-ext
+api-int.uat.gtm-ext
+purchase-int.uat.gtm-ext
+liberty-int.uat.gtm-ext
+waatsgatexml-int.uat.gtm-ext
+purchasexml-int.uat.gtm-ext
+lite-int.uat.gtm-ext
+eztips-int.uat.gtm-ext
+waatspurchase-int.uat.gtm-ext
+payments-int.uat.gtm-ext
+waatspurchase-int.qa.gtm-ext
+waatspurchase-int.qa
+sites.qa
+sites.qa.gtm-ext

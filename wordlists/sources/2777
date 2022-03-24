@@ -36,3 +36,15 @@ vod.origin
 remix.origin
 progressive-audio
 progressive-audio-stag
+ssl.live.origin.v2
+live-radio.ec
+ondemand-radio-stag.ec
+ondemand.ec
+ondemand-stag.ec
+remix-stag.ec
+live-radio-stag.ec
+live.ec
+ssl.vod.origin.v2
+live-stag.ec
+remix.ec
+ondemand-radio.ec

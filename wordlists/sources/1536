@@ -210,3 +210,5 @@ api-non-prod
 ecfsapi-prod
 origin-ecfs-prod
 origin-ecfsapi-prod
+nv-int
+nv-staging

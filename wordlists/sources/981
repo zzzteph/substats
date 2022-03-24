@@ -164,3 +164,11 @@ root
 communication
 lms
 registry2.k
+sentry.msk
+stash.msk
+stats
+mattermost-test
+rocketchat-test
+ww66w
+context
+webrtc-sm-test

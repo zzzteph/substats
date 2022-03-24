@@ -302,3 +302,5 @@ msoid
 dub-ns-mpls-test
 lvs-ns-mpls-test
 fra-ns-mpls-test
+ns2-eu-azure
+ns1-eu-azure

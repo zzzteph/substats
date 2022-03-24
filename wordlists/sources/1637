@@ -69,3 +69,9 @@ internal-repo
 api-vo-staging
 internal-repo-old
 rtcstats-server
+api-meet
+rtcstats-server-pilot
+prod-8x8-us-east-1a-s24-jvb-67-95-84
+prod-8x8-us-east-1a-s24-jvb-67-105-111
+prod-8x8-us-east-1a-s24-jvb-67-102-13
+prod-8x8-us-west-2b-s17-jvb-68-67-83

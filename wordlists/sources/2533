@@ -19,3 +19,6 @@ stage2
 c-static
 lbstage
 ams1
+smtp.dal-tr
+smtp.ams-tr
+mobilesuggest

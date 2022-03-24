@@ -360,3 +360,15 @@ vdev.auth.owners
 auth.vtest.owners
 auth.vdev.admin
 stagingsupport
+ddcc
+ddqatrain
+bpmtest
+ddlexusdealerstore
+dev-ecpc.aemsites
+dev-lcom.aemsites
+dev-lms.aemsites
+dev-ld.aemsites
+uiplatform.qa.dealer
+qa-lms.aemsites
+qa-ld.aemsites
+qa-ecpc.aemsites

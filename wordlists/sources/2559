@@ -104,3 +104,8 @@ stats
 wallet-11-staging
 api-sandbox
 auth-sandbox
+api-gateway-dev
+staging
+dev-brasil
+staging-brasil
+api-gateway-qa

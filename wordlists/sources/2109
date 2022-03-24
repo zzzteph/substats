@@ -51,3 +51,6 @@ grafana-production.teleport.infra
 consult
 teleport.infra
 demo-old
+app.development
+demo2021.development.eks
+strapi.development

@@ -52,3 +52,5 @@ slack.staging
 marketing.staging
 admin.staging
 api.staging
+verify
+cors-image-proxy

@@ -132,3 +132,13 @@ content
 lnk.nc.mails
 env.nc.mails
 superset-prod
+load-elk
+dp-jenkins-prod
+dataedo
+dp-jenkins-dev
+load-ldap
+load-apm
+sherlcok
+grafana-load
+load-jenkins
+eskibana

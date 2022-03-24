@@ -83,3 +83,4 @@ cass5.ec2-us-west-2.int
 shard3.lotus.int
 ops-ci
 services1.ec2-us-west-2.int
+gw1.ec2-us-west-2.int

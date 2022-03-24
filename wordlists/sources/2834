@@ -140,3 +140,12 @@ enterpriseregistration
 o2182.abmail.app
 o3843.abmail.train
 gsinsiders
+size-guide.api.staging
+headless.staging
+size-guide.api
+de.headless.staging
+netsuite-ingestion.platform
+nl.headless.staging
+netsuite-ingestion.platform.staging
+fr.headless.staging
+community.staging

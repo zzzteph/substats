@@ -239,3 +239,6 @@ admin.ibsandbox.dreamteam01.sandbox
 api-alb.c10.int-staging
 atlantisnew
 c8.us-east-1.staging.monolith-staging.int.staging
+api-alb.c10.int.staging
+ad-builder
+charts-staging.ops.int.staging

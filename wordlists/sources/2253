@@ -101,3 +101,5 @@ assets.dev
 preview.dev
 activate
 stream-d.staging
+socket-old.eval
+sockets-old.eval

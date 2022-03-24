@@ -432,3 +432,6 @@ www.f09bac89a41a067ef88d9335011c2ca5.us-east-1.aws
 search1.ent.ap-southeast-2.aws
 cw-elastic.es.eu-west-1.aws
 6.us-east-1.aws
+stage-au-main.apm.ap-southeast-2.aws
+prod-au-main.apm.ap-southeast-2.aws
+9f11aab8d9c.us-east-1.aws

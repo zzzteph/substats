@@ -109,3 +109,7 @@ jenkins.prod.wheel
 api.prod.wheel
 logs.prod.wheel
 jenkins.pantheon
+flora-render.qa.petunia
+flora-render-prod.prod.petunia
+flora-render-qa.qa.petunia
+webportal.dev.tuscany

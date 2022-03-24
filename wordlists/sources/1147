@@ -305,3 +305,13 @@ test-jenkins-private
 stats-api-staging
 stats-api10
 stats-api11
+jenkins-private
+api-private
+rtb-fastcache01-int
+api-upload-staging
+dev-rtb-lb-event.us-east
+api-private-lb
+uat-api-private-lb
+prod-cmp
+staging-cmp
+prod-cmp-int

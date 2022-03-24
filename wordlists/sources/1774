@@ -846,3 +846,12 @@ newsletterupload
 mcdevmig.ref
 mcdev.ref
 dev22
+ewms.prod.lab
+login-ciam
+wiremock.dev.lab
+alb-res.prod.lab
+alb-res.dev.lab
+pages.news.music
+ewms.dev.lab
+alb-res.beta.lab
+e2e1-v2.permissions

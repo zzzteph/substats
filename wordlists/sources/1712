@@ -32,3 +32,6 @@ test
 prod-eso
 test-eso
 stage-eso
+stagelogin
+stage-www
+sso-stagelogin

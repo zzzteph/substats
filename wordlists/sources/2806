@@ -235,3 +235,16 @@ aamva.sys.stg1.dmz
 socks.prod-aws.gbr.infra
 oidc.public.dev1.dmz
 vc-core.public.dev1.dmz
+api.internal.app-yotikeys0.svc.stg-aws.irl.internal
+n-public.fe-yotisign0.int.svc.ppd-aws.irl.internal
+api.internal.fe-yotisign0.svc.ppd-aws.irl.internal
+api.internal.app-dailymetrics0.svc.ppd-aws.irl.internal
+api.internal.app-yotisign0.svc.ppd-aws.irl.internal
+api.internal.fe-dailymetrics0.svc.ppd-aws.irl.internal
+api.internal.app-connect0.svc.dev-aws.irl.internal
+socks.ppd-ld5.gbr.infra
+socks.pdev-ld5.gbr.infra
+age-scan.sys.dev6.dmz
+api.internal.fe-yotikeys0.svc.stg-aws.irl.internal
+sso.infra0.svc.prod-aws.irl.internal
+oidc.staff.dev1.dmz

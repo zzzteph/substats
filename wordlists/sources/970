@@ -78,3 +78,6 @@ sonar.apps
 syslog.apps
 linksplus-api
 superset.apps
+linksplus-admin
+www.shopifypayments
+shopifypayments

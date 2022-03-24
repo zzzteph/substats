@@ -14,3 +14,8 @@ test.stage
 grafana.prod
 anonymous-tracking-api.stage
 kibana.prod
+grafana-july
+data-transformsf
+grafana-vi
+tableau.prod
+data-page

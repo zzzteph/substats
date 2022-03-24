@@ -134,3 +134,11 @@ alb.search
 ads-serve.aws-internal
 rust-pkg-brave-core.s3
 tiles-alb.search
+p3a-json
+goma.ba
+mywallet.ads
+brave-build-deps-public.s3
+anonymous.ads
+mainnet-beta-solana
+proxy.aws-internal
+testnet-solana

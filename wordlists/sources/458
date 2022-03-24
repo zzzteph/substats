@@ -337,3 +337,5 @@ nginx-ingress-test-41678.ea-eden-prod
 elastic-co-ds-brand.app
 console-heroku.qa.cld
 tylerjl.ea-es
+nginx-ingress-test-15948.ea-demo-staging
+manifest.synthetics.qa.cld

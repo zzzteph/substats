@@ -143,3 +143,15 @@ qa-pipeline-api
 qa-forecastbackend
 backoffice-api-us-east-1
 backoffice-api
+uat-backoffice
+uat-xprt
+uat-dm
+uat-staff
+uat-backoffice-api
+uat-xoobackend
+uat-xooapi
+uat-xoo
+uat-xprtbackend
+uat-dmbackend
+uat-log-reader
+uat-log-readerbackend

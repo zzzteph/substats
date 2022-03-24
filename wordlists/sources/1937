@@ -80,3 +80,6 @@ acc-demo-audit-elk
 prod-demo-audit-elk
 prod-demo-ui
 acc-demo-ui
+sandbox-tim-k8s-prometheus
+demo-iot-platform-test
+sandbox-tim-kibana

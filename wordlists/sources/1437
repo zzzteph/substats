@@ -253,3 +253,10 @@ shardsvr-7.c1-usw2.mongo.aws
 test-storm-2
 shardsvr-8.c1-usw2.mongo.aws
 shardsvr-21.c1-euw1.mongo.aws
+shardsvr-0.test-usw2.mongo.aws
+mongos-0.c1-usw2.mongo.aws
+c1-vault-cert.aws
+mongos-0.c1-euff1.pub.mongo.oracle
+mongos-0.test-usw2.mongo.aws
+mongos-0.test-usab1.pub.mongo.oracle
+shardsvr-0.c1-usw2.mongo.aws

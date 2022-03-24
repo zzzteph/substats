@@ -11,3 +11,6 @@ test
 web
 admin.staging
 web.staging
+web.stagingnew
+admin.stagingnew
+stagingnew.api

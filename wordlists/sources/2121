@@ -34,3 +34,6 @@ omnidb.a
 sandbox-crowdcontrol.a
 api.sandbox-crowdcontrol.a
 tracker.sandbox-crowdcontrol.a
+gateway.a
+gateway-admin.a
+wallet.a

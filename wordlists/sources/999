@@ -275,3 +275,4 @@ thanossidecar-0.kafka.us-east4.staging
 broker-2.app.kafka.us-east4.staging
 bootstrap.app.kafka.us-east4.staging
 broker-5.app.kafka.us-east4.staging
+broker-4.app.kafka.us-east4.staging

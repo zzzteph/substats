@@ -118,3 +118,9 @@ level-gateway-testci.fallguys-dev
 matchmaking-gateway-staging.fallguys
 level-gateway-loadtest2.fallguys-dev
 level-gateway-unstable.fallguys-dev
+matchmaking-gateway-complianceqa.fallguys-dev
+matchmaking-gateway-prod3.fallguys
+docs-jon.catapult-dev
+analytics-gateway-complianceqa.fallguys-dev
+server-grpc-testci.catapult-dev
+server-grpc-public-testci.catapult-dev

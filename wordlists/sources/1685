@@ -126,3 +126,17 @@ dashboard.eks-1-20.srv
 prometheus.eks-1-20.srv
 goldilocks.eks-1-20.srv
 cats-public.microservices.srv
+dogs-web-restricted-public-alb.eks-1-20.srv
+circleci3
+hamster-tunnel
+drome-web.smart
+judy-web.smart
+plasma-metabase-web.smart
+sushi-web.smart
+designer-moderation-web.smart
+cornucopia-web.smart
+lyst-connect-admin-web.smart
+lyst-connect-web.smart
+retailer-web.smart
+analytics-gif-http-public-alb.eks-1-20.srv
+analytics-gif-http.smart

@@ -19,3 +19,8 @@ pages.go
 localhost.go
 view.go
 click.go
+secure.lbprod
+secure2.lbprod
+secure1.lbprod
+gtm-kx-tier1
+gtm-em-tier1

@@ -16,3 +16,4 @@ prometheus
 grafanaplay
 grafana
 alertmanager
+grafanatest

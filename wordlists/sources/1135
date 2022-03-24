@@ -1161,3 +1161,16 @@ cas-dev
 reviews-dev-us-east-1.stage.cloud
 search-stage-eu-west-1.stage.cloud
 search-stage-us-east-1.stage.cloud
+cc-spark-services-snapi-stage
+cd-stage
+assets-upload-legacy-dev
+acritesuiiframe-stage-va7.stage.cloud
+api-gateway-ap-prod2-b-ue1
+blether-dashboard
+blether-dashboard-stage
+api-gateway-ap-prod2-a-ue1
+unified-checkout-v3
+photos-test
+postsnapi-stage
+t-adobesearch-stage
+platform-cs-stage-va7

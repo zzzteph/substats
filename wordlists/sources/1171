@@ -198,3 +198,6 @@ prod-fastly-ap-southeast-2.video
 prod-fastly-us-west-1.video
 dev-fastly-eu-west-1.video
 dev-fastly-us-west-2.video
+prod-ec-eu-west-3.video
+prod-ec-eu-west-1.video
+dev-ec-eu-west-1.video

@@ -57,3 +57,4 @@ promotions-spin-service.promotions.stage
 rc.staging
 rcs.staging
 rcs-int.staging
+api.test.messaging

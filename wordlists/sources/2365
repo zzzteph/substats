@@ -113,3 +113,6 @@ terminal
 chaindev
 landing8.tp
 business
+algae
+injection-worker-test
+crdt

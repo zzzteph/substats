@@ -300,3 +300,11 @@ beta.notificatieservice.melding
 migratedb.infra.systemteam
 promotelambda.infra.systemteam
 status.infra.systemteam
+test.sdg-api.informatiekanalen
+tni.mijngegevens.burgerprofiel
+tni.uwwoonstenvastgoed.burgerloket
+migratedb.infra.cc
+bastion-test.infra.magdaonline
+test.webid.burgerprofiel
+tni.webid.burgerprofiel
+beta.webid.burgerprofiel

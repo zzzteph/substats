@@ -277,3 +277,15 @@ api-security-engine-receiver.ap.service
 autodiscover.billing
 dfw-cisco-direct-vpn-hc
 homepoint
+jamfinfra
+api.captcha
+api.captcha-staging
+ftp-incp
+rhvt.gp
+speakup
+ftp-aws
+client.captcha-staging
+hip-staging-us-east-1-argocd.captcha-staging
+hip-production-us-east-1-argocd.captcha
+netsec-dashboards.service
+hip-staging-us-east-1-grpc-argocd.captcha-staging

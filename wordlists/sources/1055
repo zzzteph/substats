@@ -4,3 +4,6 @@ staging
 origin.staging
 metric
 metrics
+origin.touch
+origin.staging.touch
+next.staging

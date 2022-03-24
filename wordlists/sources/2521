@@ -247,3 +247,8 @@ p1f-assets-test
 appportal-ore.ort-idaas
 appportal-ore.idaas
 authernticator
+non-prod.ort-admin
+webdisk.ort-admin
+beta.apps-staging
+git.apps-staging
+www-ohi.perf-idaas

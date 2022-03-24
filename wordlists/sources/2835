@@ -41,3 +41,9 @@ features.api
 ca.pwks
 config
 traefikauth.service.staging
+testing.pwks
+cancellations.api
+premium.api
+merchandiser
+rapid7.develop
+rapid7

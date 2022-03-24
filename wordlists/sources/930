@@ -92,3 +92,5 @@ producer-api
 oauth.fs
 oauth-db.map
 node-sio-1.fs
+redis-analytics-slave
+cp217447

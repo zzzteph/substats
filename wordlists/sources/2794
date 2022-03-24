@@ -29,3 +29,5 @@ referral
 api-pub
 api-pub.development
 api-pub.staging
+subaccount-v2.development
+wms-api
